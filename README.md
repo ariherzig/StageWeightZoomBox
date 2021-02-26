@@ -1,1 +1,1 @@
-# StageWeightZoomButtons
+# Stage Weight Zoom Box
