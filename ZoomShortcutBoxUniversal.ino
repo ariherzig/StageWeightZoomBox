@@ -3,8 +3,8 @@
  
 OneButton button1(0, true);
 OneButton button2(2, true);
-#define LED_1 4
-#define LED_2 3
+#define LED_1 3
+#define LED_2 4
 
 int LED_1_Value = LOW;
 int LED_2_Value = LOW;
